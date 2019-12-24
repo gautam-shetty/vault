@@ -1,0 +1,14 @@
+{
+  "name": "vault",
+  "version": "1.0.0",
+  "description": "File and Folder Locker",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Gautam Shetty",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^7.1.7"
+  }
+}
